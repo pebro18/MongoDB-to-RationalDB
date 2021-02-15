@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c070059a-48a1-4f52-b4b2-59fd823617ab" name="Default Changelist" comment="">
+    <list default="true" id="c070059a-48a1-4f52-b4b2-59fd823617ab" name="Default Changelist" comment="mappen structuur aangemaakt">
+      <change afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +58,14 @@
       <workItem from="1613382035992" duration="781000" />
       <workItem from="1613386614669" duration="29000" />
     </task>
+    <task id="LOCAL-00001" summary="mappen structuur aangemaakt">
+      <created>1613396057990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613396057990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,11 +83,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2381" y="184" key="SettingsEditor" timestamp="1613386642290">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2381" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613386642290" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mappen structuur aangemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="mappen structuur aangemaakt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$test.coverage" NAME="test Coverage Results" MODIFIED="1613385865359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
