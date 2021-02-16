@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="c070059a-48a1-4f52-b4b2-59fd823617ab" name="Default Changelist" comment="mappen structuur aangemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/getdata/retrievedata.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/getdata/retrievedata.py" afterDir="false" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/HU_AI_Blok_C/Structured Programming/Mastermind.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -130,9 +131,7 @@
       <updated>1613381262308</updated>
       <workItem from="1613381270103" duration="103000" />
       <workItem from="1613381425156" duration="579000" />
-      <workItem from="1613382035992" duration="781000" />
-      <workItem from="1613386614669" duration="29000" />
-      <workItem from="1613476921208" duration="5113000" />
+
     </task>
     <task id="LOCAL-00001" summary="mappen structuur aangemaakt">
       <created>1613396057990</created>
