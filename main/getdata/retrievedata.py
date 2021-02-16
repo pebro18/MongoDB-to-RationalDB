@@ -7,6 +7,8 @@ mycol = mydb[all_col[0]]
 for i in mycol.find({'brand': "8x4"}, {"_id": 0, "brand": 1}):
     print(i)
 
+    #test
+
 
 class getdata(object):
 
