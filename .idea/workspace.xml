@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="c070059a-48a1-4f52-b4b2-59fd823617ab" name="Default Changelist" comment="mappen structuur aangemaakt">
+    <list default="true" id="c070059a-48a1-4f52-b4b2-59fd823617ab" name="Default Changelist" comment="Opdracht 2a afgemaakt">
+      <change beforePath="$PROJECT_DIR$/.idea/MongoDB-to-RationalDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MongoDB-to-RationalDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/getdata/retrievedata.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/getdata/retrievedata.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,6 @@
       <updated>1613381262308</updated>
       <workItem from="1613381270103" duration="103000" />
       <workItem from="1613381425156" duration="579000" />
-
     </task>
     <task id="LOCAL-00001" summary="mappen structuur aangemaakt">
       <created>1613396057990</created>
@@ -167,12 +166,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mappen structuur aangemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="mappen structuur aangemaakt" />
+    <MESSAGE value="Opdracht 2a afgemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2a afgemaakt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1613399929053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/test" />
     <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$testimportmongodb.coverage" NAME="testimportmongodb Coverage Results" MODIFIED="1613477668081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/test" />
-    <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$retrievedata.coverage" NAME="retrievedata Coverage Results" MODIFIED="1613483154425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/getdata" />
+    <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$retrievedata.coverage" NAME="retrievedata Coverage Results" MODIFIED="1613484939899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/getdata" />
     <SUITE FILE_PATH="coverage/MongoDB_to_RationalDB$test.coverage" NAME="test Coverage Results" MODIFIED="1613385865359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
   </component>
 </project>
